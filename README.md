@@ -1,4 +1,7 @@
 # Healthify_Base
+
+This mini-project is a real life implementation of Dynamic Programming(Knapsack problem) in our daily lives.We use DP to make our personal diet planner that chooses food items to maximixe protein intake.
+
  Approach
 We need to make sure that a person is intaking meals per day and is well balanced in calorie to protein intake.We find out the best-balanced diet for a customer, concerning
 our problem statement.
